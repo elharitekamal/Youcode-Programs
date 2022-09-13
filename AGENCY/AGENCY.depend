@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662997840 source:c:\users\yc\desktop\langage c\agency\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

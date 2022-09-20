@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663690412 source:c:\users\kamal\desktop\2022\sas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
